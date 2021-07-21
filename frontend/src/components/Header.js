@@ -13,6 +13,9 @@ function Header(){
             <li className="nav-item">
                 <Link to = "/add" class="nav-link">Create Student</Link>
             </li>
+            <li className="nav-item">
+                <Link to = "/get" class="nav-link"> Students</Link>
+            </li>
            
             </ul>
 

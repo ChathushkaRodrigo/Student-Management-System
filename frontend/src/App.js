@@ -13,7 +13,8 @@ function App() {
      
       <Route path="/add" exact component ={AddStudent}/>
       <Route path ="/get" exact component = {AllStudents}/>
-      
+     
+     
     </div>
     </Router>
    
